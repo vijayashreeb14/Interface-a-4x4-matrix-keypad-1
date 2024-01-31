@@ -1,7 +1,7 @@
 # Interfacing a 4x4 matrix keypad
 
 ## Aim: 
-To simulate the interface of a 4x4 matrix keypad to ARM controller and display the output on 16X2 LCD for keys 4,5,6 only.
+To simulate the interface of a 4x4 matrix keypad to ARM controller and display the output on 16X2 LCD for arithmetic operation only.
 
 ## Components required: 
 STM32 CUBE IDE, Proteus 8 simulator .
@@ -128,4 +128,4 @@ int main(void)
 ## Output screen shots of proteus
 
 ## Result :
-Interfaced a 4x4 matrix keypad with ARM microcontroller and displayed the output on 16X2 LCD for keys 4,5,6 in simulation.
+Interfaced a 4x4 matrix keypad with ARM microcontroller and displayed the output on 16X2 LCD for arithmetic operation in simulation.
